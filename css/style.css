@@ -1,0 +1,143 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "PT Sans", sans-serif;
+    background: #757090;
+}
+
+.header {
+    background: #66CC87;
+    filter: brightness(95%);
+    color: #ffffff;
+}
+
+.col-md-4 img {
+    width: 10%;
+    height: auto;
+    margin-right: 2%;
+    margin-top: 0.5%;
+    float: left;
+}
+
+.col-md-4 {
+    font-size: 230%;
+}
+
+.col_name {
+    font-family: Georgia, sans-serif;
+    margin-right: 50%;
+    font-weight: bold;
+}
+
+.col-md-2 {
+    padding: 0.5%;
+}
+
+.col-md-2 a {
+    font-size: 150%;
+    font-weight: 700;
+    font-family: arial, sans-serif;
+    color: white;
+}
+
+.col-md-2 a:hover {
+    color: #2E8B7D;
+    text-decoration: none;
+}
+
+.selected_color {
+    color: #2E8B7D;
+}
+
+#biography {
+    background: #757090;
+    color: white;
+    font-family: Courier, monospace;
+    padding: 10px;
+}
+
+#schedule {
+    margin-top: 2%;
+    border-color: #2E8B7D;
+}
+
+.text a {
+    color: #66CC87;
+}
+
+.photo {
+    width: 22%;
+    height: auto;
+    margin-right: 20px;
+    float: left;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 2%;
+}
+
+p {
+    margin-top: 2%;
+}
+
+.col-lg-3 {
+    margin-top: 2%;
+}
+
+#contacts {
+    padding: 3%;
+    top: 10%;
+    width: 80%;
+    height: auto;
+    background: #707A90;
+    border-radius: 5%;
+    color: white;
+    font-family: Courier, monospace;
+    font-size: large;
+}
+
+#contacts a {
+    color: aquamarine;
+    font-size: medium;
+    margin: 0 auto;
+}
+
+h4, h3 {
+    font-family: Courier, monospace;
+    font-weight: 700;
+}
+
+#creator {
+    padding: 3%;
+    top: 10%;
+    width: 80%;
+    height: auto;
+    background: #707A90;
+    border-radius: 5%;
+    color: white;
+    font-family: Courier, monospace;
+    font-size: large;
+    margin-top: 5%;
+}
+
+#disciplines {
+    background: #757090;
+    color: white;
+    font-family: Courier, monospace;
+}
+
+h4 span {
+    border-bottom: 1px solid #66CC87;
+}
+
+tr, td {
+    color: white;
+    font-family: Courier, monospace;
+}
+
+table.table-bordered > tbody > tr > td {
+    border: 1px solid #66CC87;
+}
