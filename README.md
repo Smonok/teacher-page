@@ -1,4 +1,4 @@
-#LABORATORY WORK №1
+# LABORATORY WORK №1
 Creating a Static Website with HTML5, CSS3 and Twitter Bootstrap 4
 
 Hubych Nazarii 
